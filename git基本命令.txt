@@ -13,8 +13,8 @@ git add .
 3 git status //查看状态
 
 
-4 git commit  //提交
-  esc :wq 退出  
+4 git commit -m '备注'  //提交
+  
 
 
 5 git push   //推送到仓库
