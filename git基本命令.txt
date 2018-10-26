@@ -14,6 +14,7 @@ git add .
 
 
 4 git commit  //提交
+  esc :wq 退出  
 
 
 5 git push   //推送到仓库
