@@ -1,0 +1,24 @@
+1 git init  //初始化本地git仓库
+
+  配置  
+  git config --global user.name 'yz'  
+  git config --global user.email '2168732135@qq.com'  
+
+
+2 git add   //添加文件
+git add *.html
+git add .
+
+
+3 git status //查看状态
+
+
+4 git commit  //提交
+
+
+5 git push   //推送到仓库
+6 git pull  //从远程仓库拉取数据
+7 git clone  //从远程仓库拷贝数据
+
+
+git rm --cached index.html   删除文件
